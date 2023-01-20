@@ -1,3 +1,4 @@
+
 # Vigne-Protect
 
 Lors d’une alerte de gel, le groupe électrogène pourra être démarré en automatique (utilisation par défaut) si la température atteint 0°C et si l’hygrométrie est supérieure à 80%. ou -1°C quel que soit l’hygrométrie. Le groupe devra s’arrêter si la température extérieure atteint +1°C. Cependant le viticulteur peut, à l’aide de son smartphone, allumer ou éteindre le groupe (ordre prioritaire).
@@ -7,3 +8,5 @@ Les hygrométries sont mesurées et transmises à l’unité près (plage de 0 �
 La vitesse du vent est mesurée et envoyée à l’unité près en km/h (plage de 0 à 120 km/h),
 L’identifiant des modules capteurs sera composé de 5 caractères. 
 Les capteurs doivent pouvoir être répartis à différents endroits. La portée de transmission doit être d’une centaine de mètres. 
+![image](https://user-images.githubusercontent.com/66444146/213673052-19637dc9-69de-454e-b5dc-4fa1d5e63289.png)
+![image](https://user-images.githubusercontent.com/66444146/213673610-b0bea812-7e19-4410-9157-2def7fadba72.png)
