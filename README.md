@@ -8,5 +8,7 @@ Les hygrométries sont mesurées et transmises à l’unité près (plage de 0 �
 La vitesse du vent est mesurée et envoyée à l’unité près en km/h (plage de 0 à 120 km/h),
 L’identifiant des modules capteurs sera composé de 5 caractères. 
 Les capteurs doivent pouvoir être répartis à différents endroits. La portée de transmission doit être d’une centaine de mètres. 
+
 ![image](https://user-images.githubusercontent.com/66444146/213673052-19637dc9-69de-454e-b5dc-4fa1d5e63289.png)
+
 ![image](https://user-images.githubusercontent.com/66444146/213673610-b0bea812-7e19-4410-9157-2def7fadba72.png)
