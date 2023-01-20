@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_serveur-vigne",
+  "version": "0.0.0",
+  "description": "Nodejs_ServeurVigne",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
