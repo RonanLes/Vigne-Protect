@@ -1,5 +1,12 @@
 
+
+
 # Vigne-Protect
+
+L’entreprise « Vigne Protec » est spécialisée dans la lutte contre le gel de printemps dans les vignes. Elle installe des câbles électriques permettant le chauffage des bourgeons pour éviter qu’ils gèlent. L’énergie électrique est produite par un groupe électrogène.
+Vigne Protec souhaite offrir à ses clients la possibilité de suivre en local ou sur smartphone l’évolution des températures et de l’hygrométrie à l’extérieur et au niveau des bourgeons. Elle souhaite également qu’ils puissent voir l’historique des données sur un site internet même si ces données seront surtout utiles à l’entreprise pour améliorer le système.
+
+# Principe
 
 Lors d’une alerte de gel, le groupe électrogène pourra être démarré en automatique (utilisation par défaut) si la température atteint 0°C et si l’hygrométrie est supérieure à 80%. ou -1°C quel que soit l’hygrométrie. Le groupe devra s’arrêter si la température extérieure atteint +1°C. Cependant le viticulteur peut, à l’aide de son smartphone, allumer ou éteindre le groupe (ordre prioritaire).
 Plusieurs modules capteurs pourront être disposés dans la vigne. La plupart des modules possède 2 capteurs, 1 pour la mesure de l’hygrométrie et la température au niveau des bourgeons, 1 capteurs de température pour mesurer la température du fil (ces mesures peuvent varier en fonction de l’endroit où sont situés les capteurs dans la vigne). D’autres types de modules capteurs peuvent être ajoutés (vent, puissance, …). Les résultats des mesures ainsi que l’état de leur batterie seront transmis au Raspberry toutes les 3 minutes où elles seront enregistrées et affichées en temps réel. Elles seront transmises toutes les 6 mn au smartphone.
